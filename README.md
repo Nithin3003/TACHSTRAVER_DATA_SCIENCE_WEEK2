@@ -9,7 +9,10 @@ Button to trigger the conversion from Fahrenheit to Celsius.
 Label to display the conversion result.
 Command to Run
 To run the Temperature Converter project, navigate to the directory containing temperature_converter.py and execute the following command in the terminal:
+
+
 ![Screenshot 2024-07-29 113502](https://github.com/user-attachments/assets/daf707cb-2205-4a2e-963a-457a8d4cc922)
+
 
 
 Sudoku Game Project
